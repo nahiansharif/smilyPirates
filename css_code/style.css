@@ -1,0 +1,248 @@
+body
+{
+  background-color: black;
+  margin: 0;
+}
+h1
+{
+  text-align: center;
+  font-family: 'Vujahday Script';
+  font-size: 300%;
+  color: #E5890A;
+}
+
+h2
+{
+  font-family: 'Vujahday Script';
+  font-size: 200%;
+    color: Yellow;
+    margin-left: 30px;
+}
+
+label
+{
+  color:  #5ad9fc;
+  font-size: 30px;
+  padding: 30px;
+}
+
+textarea
+{
+  padding: 20px;
+  background-color: gray;
+  font-size: 20px;
+  margin: 35px;
+
+}
+
+.logo_edit
+{
+  background: none;
+  width: 5%;
+  margin: 0px 10px 10px 10px;
+  vertical-align: middle;
+  padding-right: 50%;
+}
+
+.surveyPic
+{
+  width: 30%;
+  margin-left: auto;
+margin-right: auto;
+  margin: 20px;
+    text-align: center;
+}
+
+.importantMessage
+{
+  font-size: 25px;
+  color: yellow;
+  margin-left: 30px;
+
+}
+
+.header
+{
+padding-top: 7px;
+padding-bottom: 7px;
+  background-color: #c6d1dc;
+  font-size: 25px;
+  width: 100%;
+  position: fixed;
+  opacity: .8;
+
+}
+
+
+.fixedHeader
+{
+  position: fixed;
+}
+
+.nokhotro
+{
+  width: 100%;
+  text-align: center;
+     margin-bottom: 0;
+}
+
+.text_section
+{
+ background-color: #101a2d;
+   margin: 0;
+}
+
+.paragraph1
+{
+  width: 25%;
+  color: #5ad9fc;
+  margin-left: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  line-height: 2;
+  font-size: 150%;
+}
+
+.img_after_p1
+{
+  width: 40%;
+  padding-right: 20%;
+}
+
+.fish
+{
+  width: 10%;
+  padding: 15px;
+  text-align: right;
+}
+
+.fish3
+{
+    width: 20%;
+float: right;
+margin-right: 25%;
+margin-top: 20%;
+}
+
+
+.paragraph2
+{
+  width: 25%;
+  color: #5ad9fc;
+  margin-left: 60%;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+  line-height: 2;
+  font-size: 150%;
+}
+
+.chichi
+{
+  width: 25%;
+float: left;
+margin-left: 17%;
+margin-top: 20%;
+}
+.img_after_p2
+{
+  width: 60%;
+  float: right;
+}
+
+.paragraph3
+{
+  clear: right;
+
+}
+
+.game_ss
+{
+  width: 30%;
+  padding: 1%;
+}
+
+.p3_text
+{
+  width: 50%;
+  color: #5ad9fc;
+  margin-left: 25%;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+  line-height: 2;
+  font-size: 150%;
+}
+
+.btn {
+
+  background: #FF0000;
+  background-image: -webkit-linear-gradient(top, #FF0000, #950101);
+  background-image: -moz-linear-gradient(top, #FF0000, #950101);
+  background-image: -ms-linear-gradient(top, #FF0000, #950101);
+  background-image: -o-linear-gradient(top, #FF0000, #950101);
+  background-image: linear-gradient(to bottom, #FF0000, #950101);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  margin: 30px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #950101;
+  background-image: -webkit-linear-gradient(top, #950101, #FF0000);
+  background-image: -moz-linear-gradient(top, #950101, #FF0000);
+  background-image: -ms-linear-gradient(top, #950101, #FF0000);
+  background-image: -o-linear-gradient(top, #950101, #FF0000);
+  background-image: linear-gradient(to bottom, #950101, #FF0000);
+  text-decoration: none;
+}
+
+.btn2 {
+  background: #2e41f2;
+  background-image: -webkit-linear-gradient(top, #2e41f2, #1a809c);
+  background-image: -moz-linear-gradient(top, #2e41f2, #1a809c);
+  background-image: -ms-linear-gradient(top, #2e41f2, #1a809c);
+  background-image: -o-linear-gradient(top, #2e41f2, #1a809c);
+  background-image: linear-gradient(to bottom, #2e41f2, #1a809c);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #433cfc;
+  background-image: -webkit-linear-gradient(top, #433cfc, #3934d9);
+  background-image: -moz-linear-gradient(top, #433cfc, #3934d9);
+  background-image: -ms-linear-gradient(top, #433cfc, #3934d9);
+  background-image: -o-linear-gradient(top, #433cfc, #3934d9);
+  background-image: linear-gradient(to bottom, #433cfc, #3934d9);
+  text-decoration: none;
+}
+
+.last_image
+{
+  width: 100%;
+
+     margin: 0;
+}
+.contact
+{
+  color: white;
+  font-size: 150%;
+  text-align: center;
+  margin: 0;
+background-color: black;
+padding-bottom: 20px;
+}
